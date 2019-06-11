@@ -10,4 +10,6 @@ echo "adsadfafa";
 echo "zyddj09 change the a.php";
 
 echo "zyddj123修改了这个文件tongyangbeibaoliul";
+
+echo "哈哈哈哈哈哈";
 ?>
