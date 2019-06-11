@@ -16,5 +16,7 @@ echo "b";
 echo "b";
 
 
-echo "addddddddddddddddddddddddddddddd";
+
+
+echo "all";
 ?>
