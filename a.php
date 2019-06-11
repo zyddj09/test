@@ -1,6 +1,6 @@
 <?php
 echo "abcdefghijklmnopqrstuvwxyz"."<br>";
-echo "abcdefghijklmnopqrstuvwxyz"."<br>";
+echo "del this col";
 echo "abcdefghijklmnopqrstuvwxyz"."<br>";
 echo "abcdefghijklmnopqrstuvwxyz"."<br>";
 echo "abcdefghijklmnopqrstuvwxyz"."<br>";
