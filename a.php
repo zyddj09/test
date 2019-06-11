@@ -5,6 +5,6 @@ echo "abcdefghijklmnopqrstuvwxyz"."<br>";
 echo "abcdefghijklmnopqrstuvwxyz"."<br>";
 echo "abcdefghijklmnopqrstuvwxyz"."<br>";
 echo "abcdefghijklmnopqrstuvwxyz"."<br>";
-echo "zyddj123修改了 "
-
+echo "zyddj123修改了 ";
+echo "adsadfafa";
 ?>
